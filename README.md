@@ -1,1 +1,1 @@
-# ICDCS2020_CAA_Detection
+# ICDCS2020_CAA_Classification
