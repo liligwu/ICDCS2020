@@ -8,6 +8,6 @@ The numbers of the nodes are in the file names. NOTE: The indices of nodes in th
 
 Each pickle file contains "train", "val", and "test" keywords; they include "data" and "label" of training, validation, and test dataset.
 
-The training set has 51840 state transition sequences and their labels (attack scenarios in TABLE I of the paper). Validation and test set have 6480 samples respectively. The partition of the "train", "val", and "test" is described in Section VI-A of the paper.
+The training set has 12,960 state transition sequences and their labels (attack scenarios in TABLE I of the paper). Validation and test set have 1,620 samples respectively. The partition of the "train", "val", and "test" is described in Section VI-A of the paper.
 
 Each sample is the state transition sequence of 10ms of the nodes, i.e., 500 states.
